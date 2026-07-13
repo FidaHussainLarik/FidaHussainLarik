@@ -1,6 +1,6 @@
 # Hi, I'm Fida Hussain
  - 🚀 On a **mission** to go from fundamentals to production-grade AI.<br>
- - 🔨 Currently working on: **Python · SQL · MongoDB · Pandas · EDA**<br>
+ - 🔨 Currently working on: **Python · Machine Learning · Data Science · Databases (SQL & MongoDB) ·**<br>
  - 💬 Ask me about **Python, AL/ML basics or databases.** <br>
  - ⚡Worth knowing fact: **Discipline beats motivation. Every single time.**<br>
 
