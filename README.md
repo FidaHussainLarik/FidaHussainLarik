@@ -1,7 +1,7 @@
 # Hi, I'm Fida Hussain
  - 🚀 On a **mission** to go from fundamentals to production-grade AI.<br>
- - 🔨 Currently working on: **Python · Machine Learning · Data Science · Databases (SQL & MongoDB) ·**<br>
- - 💬 Ask me about **Python, AL/ML basics or databases.** <br>
+ - 🔨 Currently working on: **Python · Machine Learning · Data Science · Advanced Databases (SQL & MongoDB) ·**<br>
+ - 💬 Ask me about **Python, AL/ML basics or advanced database management systes.** <br>
  - ⚡Worth knowing fact: **Discipline beats motivation. Every single time.**<br>
 
 # 📊 GitHub Stats:
